@@ -1,1 +1,1 @@
-# ems-algashop-resources-static
+# ems-algashop-resources
